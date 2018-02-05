@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a music app that allows users to easily create and edit chatrooms and messages in real time.
+short-description: Bloc Jams is a music app that gives users an intuitive and easy to navigate interface.
 ---
 
 {:.center}
