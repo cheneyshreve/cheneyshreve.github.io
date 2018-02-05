@@ -18,6 +18,8 @@ Time is precious, so this app makes use of some key ruby gems, namely, Devise, t
 
 As I'd used Devise before with Bloccit, getting that up and running was no problem. Stripe and RedCarpet were similarly straight forward to install and set-up. Setting up privacy controls for wikis and users was a bit more involved, requiring close attention to flow of information throughout the MVC framework. RSpec testing for Test-Driven Development (TDD) was less straightforward, especially with regard to the Devise and Stripe gems, and required setting up mock plans/subscriptions to test against, and user authentication and authorization mock-ups.
 
+Another challenge I faced with Bloccit is that Heroku would not allow me to add the SendGrid add-on, so I used gmail for testing and development. For a real production environment, I'd go back and use Mail Chimp or a similar application that is better suited for handling larger volumes of email.
+
 ## Solution
 Writing the RSpecs for this app was more involved compared to my earlier projects. It appears I'm not the only one who finds this challenging, after researching some queries on StackOverflow, I found some ruby gems to help support testing Devise and Stripe, which made the process more straightforward. I found that the gems facilitated the testing process, but I was also able to incorporate my own ideas as well.
 
