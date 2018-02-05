@@ -11,7 +11,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Scientist & Software Engineer</h1>
-     <p>Hi there! I'm an environmental scientist and software engineering student. I'm passionate about science and making software that puts data and science to use for you!  </p>
+     <p>Hi there, I'm Cheney! I'm an environmental scientist and software engineering student. I'm passionate about science and making software that puts data and science to use for you!  </p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
