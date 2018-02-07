@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Have questions, comments, want to connect? I'd love to hear from you, drop me an email below!
+Have questions, comments, or want to connect? I'd love to hear from you, drop me an email below!
 
 <form action="https://getsimpleform.com/messages?form_api_token=657f70fcacb14c3d90e1093ca6301548" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
