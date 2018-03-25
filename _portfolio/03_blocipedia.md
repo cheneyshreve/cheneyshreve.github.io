@@ -29,4 +29,4 @@ The fun part of this project was installing the 'faker' gem to populate the data
 ## Results & Conclusions
 Checkout my Blocipedia repository on [Github](https://github.com/cheneyshreve/blocipedia), clone the repository it and give it a test-run yourself!
 
-Live version on [Heroku] (https://immense-ocean-13499.herokuapp.com/)
+Live version on [Heroku](https://immense-ocean-13499.herokuapp.com/)
