@@ -19,7 +19,7 @@ Libraries and frameworks
 
 Other technologies
 - Firebase
-- AWS
+- Amazon Web Services
 - Heroku
 
 My educational background is in environmental sciences and disaster risk reduction. My first exposure to computer programming was during my doctorate, where I had to teach myself how program in a language called IDL in order to complete my research. My research involved processing thousands of optical satellite images acquired over the Tibetan Plateau to map land cover change and better understand how these changes relate to climate. During later postdoctoral work in the area of applied hydrologic remote sensing, I also utilized Matlab and R for data analysis and visualization.
