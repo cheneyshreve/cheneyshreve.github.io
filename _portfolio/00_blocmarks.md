@@ -11,7 +11,7 @@ short-description: Blocmarks is a social bookmarking app that allows users to cr
 - Users can like and unlike their own bookmarks, or those of other users
 - Thumbnail images of each bookmark replace traditional bookmark folders, providing a better user experience
 
-Visit the live version on [Heroku](https://https://fierce-peak-50187.herokuapp.com), or checkout my Blocmarks Github repository to download and run the app locally.
+Visit the live version on [Heroku](https://fierce-peak-50187.herokuapp.com), or checkout my Blocmarks Github repository to download and run the app locally.
 
 ### Technical resources:
 - Ruby and Ruby-on-Rails
