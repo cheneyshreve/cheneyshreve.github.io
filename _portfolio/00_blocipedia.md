@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 thumbnail-path: "img/about_wikis.png"
-short-description: Blocipedia is a production quality SaaS app that allows users to create their own wikis.
+short-description: Blocipedia is a production quality SaaS app that allows users to create their own wikis made with Ruby-on-Rails.
 
 ---
 ## Explanation

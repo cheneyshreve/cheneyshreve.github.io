@@ -2,7 +2,7 @@
 layout: post
 title: Blocmarks
 thumbnail-path: "img/blocmarks_topics.png"
-short-description: Blocmarks is a social bookmarking app that allows users to create and manage bookmarks, see other user's bookmarks, and like and unlike bookmarks that they or other users have created.
+short-description: Blocmarks is a social bookmarking app made with Ruby-on-Rails that allows users to create and manage bookmarks, see other user's bookmarks, and like and unlike bookmarks that they or other users have created.
 ---
 
 ### Key features of Blocmarks:

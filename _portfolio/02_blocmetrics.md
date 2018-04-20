@@ -2,7 +2,7 @@
 layout: post
 title: Blocmetrics
 thumbnail-path: "img/blocmetrics_front.png"
-short-description: Blocmetrics is an analytics service to track events on websites. Key features include a server-side API, a client-side JavaScript code snippet that allows users to track events in their applications, and a web accessible rails app that displays visualizations.
+short-description: Blocmetrics is an analytics service to track events on websites made with Ruby-on-Rails. Key features include a server-side API, a client-side JavaScript code snippet that allows users to track events in their applications, and a web accessible rails app that displays visualizations.
 ---
 
 Blocmetrics is an analytics service to track events on websites that I recently completed as a part of the backend foundations training at Bloc. Check out the live version of the app on [Heroku](https://stark-forest-69447.herokuapp.com/) here.

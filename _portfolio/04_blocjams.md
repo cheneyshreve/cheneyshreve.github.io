@@ -2,14 +2,14 @@
 layout: post
 title: Bloc Jams
 thumbnail-path: "img/blocjams.png"
-short-description: Bloc Jams is a music app that gives users an intuitive and easy to navigate interface.
+short-description: Bloc Jams is a music app made with jQuery that gives users an intuitive and easy to navigate interface.
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams.png)
 
 ## Explanation
-Bloc Jams is a music player app that gives users a variety of options to navigate and manipulate a music library. I built two separate versions of Bloc Jams; one with a single page interface using jQuery, and another with multiple page interfaces displaying a music library and albums on different pages.
+Bloc Jams is a music player app that gives users a variety of options to navigate and manipulate a music library. I built two separate versions of Bloc Jams; one with a single page interface using jQuery, and another with multiple page interfaces displaying a music library and albums on different pages using React.
 
 ## Problem
 Users want a variety of features in their music player, including the ability to see individual song titles and track their progress as they are playing, manipulate volume and play status from a main menu, and easily navigate between the music library and album of their choice.

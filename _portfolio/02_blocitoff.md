@@ -2,7 +2,7 @@
 layout: post
 title: Blocitoff
 thumbnail-path: "img/blocitoff.png"
-short-description: Blocitoff is a web app that allows users to create self-destructing to-do lists.
+short-description: Blocitoff is a web app that allows users to create self-destructing to-do lists made with Ruby-on-Rails.
 ---
 
 ### Key features of Blocitoff:

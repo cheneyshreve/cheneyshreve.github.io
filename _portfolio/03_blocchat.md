@@ -2,7 +2,7 @@
 layout: post
 title: Bloc Chat
 thumbnail-path: "img/blocchat.png"
-short-description: Bloc Chat is a chatroom app that allows users to easily manage chatrooms and send and receive messages in real time.
+short-description: Bloc Chat is a chatroom app made with React that allows users to easily manage chatrooms and send and receive messages in real time.
 ---
 
 {:.center}
